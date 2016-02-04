@@ -1,0 +1,41 @@
+# Thunder Team members knowledge matrix
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Logotype/FermatTeams/logo_thunder_team.jpg "Thunder Team Logo")
+
+We want all our team members to reach a level of excelence for our coding and deliverables, thats why we invest time and resources in reducing the learning curve.
+
+The following table describes the score that each team member has on specific Fermat topics. Our goal is to reach 10 (or at least 9) for every team member.
+
+Meetings, sessions and live hangouts will be organized by the team members with higher points to increase the general knowledge of everyone.
+
+---
+## Thunder team member Knowledge matrix
+
+The following table describes the scores from 1 to 10:
+
+* (**1**) I have never code anything related to this and I don't understand where to start.
+
+* (**2 and 3**) I have a bit of idea of where to start looking but never used it before.
+
+* (**4 and 5**) I understand how it works and I'm able to write some tests related to it.
+
+* (**6 and 7**) I'm have already written code that works without issues.
+
+* (**8 and 9**) I'm able to propose improvements on the design of it to make it better, and my code works great.
+
+* (**10**) I master it completelly.
+
+---
+| Name | Team name | Network Services | Blockchain | Event handling| Database | Developer App | Android | Actors & Identities | Wallets | Agents | Bitcoin |
+|----|----:|----|----|----|----|----|----|----|----|----|----|
+|**Rodrigo Acosta**|Thunder|5|9|6|7|7|3|6|5|8|8|
+|**[copy to add new row**|[team name]|0|0|0|0|0|0|0|0|0|0|
+
+
+
+---
+## Knowledge Sessions schedule
+
+Knowledge sessions will be scheduled based on current team agenda and recorded via hangout. The links will be posted here for everyone to review as needed.
+
+
