@@ -29,7 +29,7 @@ The following table describes the scores from 1 to 10:
 | Name | Team name | Network Services | Blockchain | Event handling| Database | Developer App | Android | Actors & Identities | Wallets | Agents | Bitcoin |
 |----|----:|----|----|----|----|----|----|----|----|----|----|
 |**Rodrigo Acosta**|Thunder|5|9|6|7|7|3|6|5|8|8|
-|**Franklin Marcano**|Kabuto|5|6|6|7|6|3|7|8|7|6|
+|**Franklin Marcano**|Kabuto|5|4|6|7|6|3|7|8|7|6|
 |**Richard Lozada**|Kabuto|2|1|1|4|3|4|6|2|4|2|4|
 |**[copy to add new row**|[team name]|0|0|0|0|0|0|0|0|0|0|
 
